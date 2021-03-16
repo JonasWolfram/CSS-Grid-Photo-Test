@@ -1,2 +1,2 @@
-# CSS-Grid---Photo-Test
+# CSS Grid: Photo-Test
 CSS Grid Test
